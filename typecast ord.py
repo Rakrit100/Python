@@ -1,0 +1,6 @@
+ui=ord("4")
+us=ord("Z")
+uc=ord("#")
+print(f"Int unicode ==> 4: {ui}")
+print(f"Str unicode ==> Z: {us}")
+print(f"Chr unicode ==> #: {uc}")
